@@ -1,16 +1,37 @@
-### Hi there 👋
+# Olá, Mundo :wave:!
 
-<!--
-**Yuyake23/Yuyake23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Bruno Samuel, sou programador e trabalho atualmente como engenheiro de dados. Tenho paixão em criar soluções inovadoras, eficientes e simples. Tenho experiência em desenvolvimento back-end, engenharia de dados, AWS e tenho um pé em mineração de dados e desenvolvimento de jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- **Linguagens de Programação**: Sou proficiente nas linguagens Java e Python, mas também sei utilizar R, C, JavaScript, TypeScript e estou disposto a aprender o que for necessário.
+
+- **Frameworks e Tecnologias**: Trabalhei com Spring Boot para back-end; Angular para front-end; Apache Spark para processamento de dados; e o pacote Caret (R) para mineração.
+
+- **Banco de Dados**: Possuo conhecimento em bancos de dados relacionais como MySQL e PostgreSQL, bem como em bancos de dados NoSQL como Firestore e MongoDB.
+
+- **Metodologias Ágeis**: Sou adepto das metodologias ágeis, como Scrum e Kanban.
+
+- **Outras Tecnologias**: Também utilizo Git e Docker diariamente.
+
+## Projetos Destacados
+
+1. **[Cicloshop - Java/Spring](https://github.com/Yuyake23/Xadrez)**: Uma API para gerenciamento de uma oficinar de bicicletas, aplicação desenvolvida com base em experiência em conjunto com o mano [Natanel](https://github.com/radialserial).
+
+2. **[Xadrex - Java/Android](https://github.com/Yuyake23/Xadrez)**: Um jogo de xadrez aplicando as técnicas da programação orientada a objetos; foi feito acompanhando o curso do professo Nélio Alvez, mas conta com diversas modificações, como interface gráfica, funcionamento em rede (sim, dá pra jogar com o coleguinha em PCs diferentes) e até uma versão para Android ([acesse aqui](https://github.com/Yuyake23/XadrezAndroid)) na qual contei com o apoio do [Samuel](https://github.com/Yuyake23/XadrezAndroid/commits?author=SamuelSilvaPDR).
+
+3. **[Lista de Animes - TypeScript/Angular](https://github.com/Yuyake23/animes-angular)**: Uma plataforma simples de listagem de animes utilizando dos vários funcionamentos do Angular, gosto desse projeto considerando que sou um cara do lado lógico da coisa :laughing:.
+
+## Contato
+
+Você pode entrar em contato comigo através do meu email: [brunosamuel.orizona@gmail.com](mailto:brunosamuel.orizona@gmail.com). Quem quiser bater um papo comigo, fiquem à vontade.
+
+## Experiência
+
+\[ :axe: Sessão em manutenção :hammer: \]
+
+## Conclusão
+
+Obrigado por visitar o meu perfil. Espero que esta breve visão geral sobre mim e minhas habilidades tenha sido útil. Estou ansioso para conectar-me com você e explorar possíveis oportunidades de colaboração no futuro. Até logo!
