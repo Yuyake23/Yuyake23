@@ -36,6 +36,12 @@ Você pode entrar em contato comigo através dos meus contatos. Quem quiser bate
 
 \[ :axe: Seção em manutenção :hammer: \]
 
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuyake23&show_icons=true&rank_icon=github&theme=transparent)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuyake23&layout=donut&theme=transparent)
+
 ## Conclusão
 
 Obrigado por visitar o meu perfil. Espero que esta breve visão geral sobre mim e minhas habilidades tenha sido útil. Estou ansioso para conectar-me com você e explorar possíveis oportunidades de colaboração no futuro. Até logo!
