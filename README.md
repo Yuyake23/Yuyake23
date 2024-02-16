@@ -26,11 +26,15 @@ Olá! Meu nome é Bruno Samuel, sou programador e trabalho atualmente como engen
 
 ## Contato
 
-Você pode entrar em contato comigo através do meu email: [brunosamuel.orizona@gmail.com](mailto:brunosamuel.orizona@gmail.com). Quem quiser bater um papo comigo, fiquem à vontade.
+Você pode entrar em contato comigo através dos meus contatos. Quem quiser bater um papo comigo, fiquem à vontade.
+
+[![](https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosamuel.orizona@gmail.com)
+
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosamueldasilva/)
 
 ## Experiência
 
-\[ :axe: Sessão em manutenção :hammer: \]
+\[ :axe: Seção em manutenção :hammer: \]
 
 ## Conclusão
 
