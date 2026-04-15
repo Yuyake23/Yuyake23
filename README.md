@@ -18,7 +18,7 @@ Olá! Meu nome é Bruno Samuel, sou programador e trabalho atualmente como engen
 
 ## Projetos Destacados
 
-1. **[Cicloshop - Java/Spring](https://github.com/Yuyake23/Xadrez)**: Uma API para gerenciamento de uma oficinar de bicicletas, aplicação desenvolvida com base em experiência em conjunto com o mano [Natanel](https://github.com/radialserial).
+1. **[Cicloshop - Java/Spring](https://github.com/Yuyake23/cicloshop)**: Uma API para gerenciamento de uma oficinar de bicicletas, aplicação desenvolvida com base em experiência em conjunto com o mano [Natanel](https://github.com/radialserial).
 
 2. **[Xadrex - Java/Android](https://github.com/Yuyake23/Xadrez)**: Um jogo de xadrez aplicando as técnicas da programação orientada a objetos; foi feito acompanhando o curso do professo Nélio Alvez, mas conta com diversas modificações, como interface gráfica, funcionamento em rede (sim, dá pra jogar com o coleguinha em PCs diferentes) e até uma versão para Android ([acesse aqui](https://github.com/Yuyake23/XadrezAndroid)) na qual contei com o apoio do [Samuel](https://github.com/Yuyake23/XadrezAndroid/commits?author=SamuelSilvaPDR).
 
